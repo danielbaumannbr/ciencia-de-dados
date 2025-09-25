@@ -1,9 +1,11 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import openpyxl
+
 # carregar planilha do excel
 try:
-    #df=pd.read_excel('vendas.xlsx')
-    df=pd.read_csv('vendas.csv')
+    df=pd.read_excel('vendas.xlsx')
+    #df=pd.read_csv('vendas.csv')
 except FileNotFoundError:
     print("Planilha não encontrada.")
     exit()
