@@ -28,3 +28,8 @@ plt.grid(axis='y',linestyle='--')
 plt.tight_layout()
 plt.show()
 
+plt.figure(figsize=(8,8))
+plt.pie(vendas_por_jogo['total_vendas'], labels=vendas_por_jogo['jogo'], autopct='%1.1f%%', startangle=140)
+plt.title('Participação nas Vendas por Jogo')
+plt.tight_layout()
+plt.show()
