@@ -1,5 +1,4 @@
 import pandas as pd
-import matplotlib as plt
 # carregar planilha do excel
 try:
     #df=pd.read_excel('vendas.xlsx')
