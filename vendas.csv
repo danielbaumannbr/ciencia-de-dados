@@ -1,10 +1,104 @@
-﻿data,jogo,plataforma,quantidade,valor
-01/09/2025,Super Mario,PS2,5,150.00
-05/09/2025,Clash Royale,Smartphone,4,25.00
-12/09/2025,Red Redemption 2,PC,8,250.00
-20/09/2025,Mortal Kombat,PS2,30,180.00
-08/09/2025,Guitar Hero,PS2,50,200.00
-09/09/2025,FIFA FC 25,PS5,150,250.00
-03/09/2025,Metal Slug,PS1,100,50.00
-25/09/2025,Forza Horizon 5,XBOX,10,250.00
-15/09/2025,GTA V,PS5,100,221.99
+data,jogo,plataforma,quantidade,valor
+25/06/2023,Gran Turismo 7,PS5,70,349.90
+30/06/2023,Mortal Kombat 11,Multiplataforma,90,199.90
+05/07/2023,Star Wars Jedi: Survivor,PS5,55,349.90
+10/07/2023,Hogwarts Legacy,PC,120,299.90
+15/07/2023,Dead Space Remake,PS5,45,349.90
+20/07/2023,Street Fighter 6,Multiplataforma,65,299.90
+25/07/2023,Diablo IV,PC,85,349.90
+30/07/2023,Final Fantasy XVI,PS5,60,349.90
+05/08/2023,The Witcher 3: Wild Hunt,Switch,110,149.90
+10/08/2023,Destiny 2,Multiplataforma,180,0.00
+15/08/2023,Tomb Raider,PC,75,79.90
+20/08/2023,Need for Speed Heat,PS4,95,199.90
+25/08/2023,Sonic Frontiers,Multiplataforma,50,249.90
+01/09/2023,Stray,PS5,40,149.90
+05/09/2023,It Takes Two,Multiplataforma,35,199.90
+10/09/2023,Sea of Thieves,Xbox Series X,80,149.90
+15/09/2023,Gears 5,Xbox Series X,65,199.90
+20/09/2023,Halo Infinite,Multiplataforma,95,299.90
+25/09/2023,Forza Horizon 5,Xbox Series X,110,299.90
+30/09/2023,Microsoft Flight Simulator,PC,45,249.90
+05/10/2023,Age of Empires IV,PC,55,199.90
+10/10/2023,Civilization VI,PC,70,149.90
+15/10/2023,The Sims 4,PC,250,0.00
+20/10/2023,Cities: Skylines,PC,60,89.90
+25/10/2023,Stardew Valley,Multiplataforma,85,45.90
+30/10/2023,Undertale,Multiplataforma,95,39.90
+05/11/2023,Celeste,Multiplataforma,40,59.90
+10/11/2023,Hollow Knight,Multiplataforma,115,49.90
+15/11/2023,Cuphead,Multiplataforma,75,79.90
+20/11/2023,Dead Cells,Multiplataforma,65,69.90
+25/11/2023,Hades,Multiplataforma,90,79.90
+30/11/2023,Returnal,PS5,35,349.90
+05/12/2023,Ratchet & Clank: Rift Apart,PS5,50,349.90
+10/12/2023,Demon's Souls,PS5,40,349.90
+15/12/2023,Ghost of Tsushima,PS4,85,199.90
+20/12/2023,Bloodborne,PS4,70,149.90
+25/12/2023,Uncharted 4: A Thief's End,PS4,95,149.90
+30/12/2023,The Last of Us Part II,PS4,60,199.90
+05/01/2024,Death Stranding,PC,55,149.90
+10/01/2024,Metro Exodus,Multiplataforma,45,129.90
+15/01/2024,Doom Eternal,Multiplataforma,80,199.90
+20/01/2024,Wolfenstein II: The New Colossus,Multiplataforma,50,149.90
+25/01/2024,BioShock: The Collection,Multiplataforma,65,199.90
+30/01/2024,Borderlands 3,Multiplataforma,75,149.90
+05/02/2024,Far Cry 6,Multiplataforma,60,299.90
+10/02/2024,Assassin's Creed Mirage,PC,55,249.90
+15/02/2024,Watch Dogs: Legion,Multiplataforma,45,199.90
+20/02/2024,The Division 2,Multiplataforma,70,149.90
+25/02/2024,Ghost Recon: Breakpoint,Multiplataforma,40,179.90
+02/03/2024,Resident Evil Village,Multiplataforma,85,199.90
+07/03/2024,Resident Evil 2 Remake,Multiplataforma,65,149.90
+12/03/2024,Resident Evil 3 Remake,Multiplataforma,50,149.90
+17/03/2024,Devil May Cry 5,Multiplataforma,55,199.90
+22/03/2024,Monster Hunter: World,PC,95,149.90
+27/03/2024,Monster Hunter Rise,Switch,80,199.90
+01/04/2024,Dark Souls III,Multiplataforma,75,149.90
+06/04/2024,Sekiro: Shadows Die Twice,Multiplataforma,60,199.90
+11/04/2024,Elden Ring,PS4,110,249.90
+16/04/2024,Persona 5 Royal,PS4,70,299.90
+21/04/2024,Final Fantasy VII Remake,PS4,85,299.90
+26/04/2024,Dragon Quest XI,Multiplataforma,45,199.90
+01/05/2024,NieR: Automata,Multiplataforma,65,149.90
+06/05/2024,Yakuza: Like a Dragon,Multiplataforma,50,199.90
+11/05/2024,Judgment,Multiplataforma,40,179.90
+16/05/2024,The Elder Scrolls V: Skyrim,Switch,120,199.90
+21/05/2024,Fallout 4,Multiplataforma,90,149.90
+26/05/2024,The Outer Worlds,Multiplataforma,55,179.90
+31/05/2024,Starfield,Xbox Series X,95,349.90
+05/06/2024,Mass Effect: Legendary Edition,Multiplataforma,75,249.90
+10/06/2024,Dragon Age: Inquisition,Multiplataforma,60,149.90
+15/06/2024,Baldur's Gate III,PC,130,299.90
+20/06/2024,Divinity: Original Sin 2,PC,85,159.90
+25/06/2024,Pillars of Eternity,PC,45,119.90
+30/06/2024,Pathfinder: Wrath of the Righteous,PC,35,149.90
+05/07/2024,Disco Elysium,PC,50,99.90
+10/07/2024,Planet Zoo,PC,40,79.90
+15/07/2024,Two Point Hospital,PC,55,89.90
+20/07/2024,Frostpunk,PC,45,69.90
+25/07/2024,This War of Mine,Multiplataforma,65,49.90
+30/07/2024,Factorio,PC,70,89.90
+04/08/2024,Satisfactory,PC,50,79.90
+09/08/2024,Terraria,Multiplataforma,200,29.90
+14/08/2024,Don't Starve Together,Multiplataforma,85,36.90
+19/08/2024,Subnautica,Multiplataforma,75,79.90
+24/08/2024,No Man's Sky,Multiplataforma,60,149.90
+29/08/2024,Outer Wilds,Multiplataforma,55,79.90
+03/09/2024,Firewatch,Multiplataforma,45,49.90
+08/09/2024,What Remains of Edith Finch,Multiplataforma,40,39.90
+13/09/2024,Gone Home,Multiplataforma,35,29.90
+18/09/2024,Life is Strange: True Colors,Multiplataforma,50,199.90
+23/09/2024,The Walking Dead: The Telltale Series,Multiplataforma,65,149.90
+28/09/2024,Until Dawn,PS4,55,149.90
+03/10/2024,The Quarry,Multiplataforma,45,249.90
+08/10/2024,Detroit: Become Human,PS4,70,199.90
+13/10/2024,Heavy Rain,PS4,50,149.90
+18/10/2024,Beyond: Two Souls,PS4,45,149.90
+23/10/2024,Little Nightmares II,Multiplataforma,60,149.90
+28/10/2024,Inside,Multiplataforma,75,49.90
+02/11/2024,Limbo,Multiplataforma,85,29.90
+07/11/2024,Ori and the Will of the Wisps,Xbox Series X,65,99.90
+12/11/2024,Cuphead,Switch,55,79.90
+17/11/2024,Shovel Knight,Multiplataforma,90,59.90
+22/11/2024,Shantae and the Seven Sirens,Multiplataforma,40,79.90
